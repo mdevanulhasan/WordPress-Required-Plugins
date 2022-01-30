@@ -1,0 +1,60 @@
+1) all-in-one-wp-migration
+https://drive.google.com/file/d/1XCmsD5Tay_KWZAM74B7JOFH14eblLT-Q/view?usp=sharing
+2) all-in-one-wp-security-and-firewall
+https://drive.google.com/file/d/1qggCBXFBNvbha1DkyjxnxUc8poJRBIXH/view?usp=sharing
+3) bangladeshi-payment-gateways
+https://drive.google.com/file/d/1LW2tHjybMYF2iYYkpoVkpfh3Bt9blQCT/view?usp=sharing
+4) child-theme-configurator
+https://drive.google.com/file/d/1Hx2vnG36DyUZdttFJ4fiMfuXhRCz16MP/view?usp=sharing
+5) contact-form-7
+https://drive.google.com/file/d/1AFlIiIrsHYao5IaE00ffjQW0CsoaIDKp/view?usp=sharing
+6) duplicator-pro
+https://drive.google.com/file/d/16bl-hpcWEE-rC9uZGCoMYCKcD8xcAPYM/view?usp=sharing
+7) duplicator
+https://drive.google.com/file/d/13Gqyri1oo6GlRK7WCukpuuNmSP3HB1IY/view?usp=sharing
+8) e-head-footer-code
+https://drive.google.com/file/d/1LdhWMraEAeaL1dWBdYy9HEPpAEy5E400/view?usp=sharing
+9) easy-facebook-likebox
+https://drive.google.com/file/d/1Cx7Cf-HHnneEGcuLeHXcnbiAWyCbr3Mr/view?usp=sharing
+10) elementor-pro
+https://drive.google.com/file/d/1H-5fSpkg3yDphk3iHzvTz7zXxlk6Bi9L/view?usp=sharing
+11) elementor
+https://drive.google.com/file/d/1uLvT6PPuV-R-8EJSDuy8Sw8Ta3sQ7XeL/view?usp=sharing
+12) go-live-update-urls
+https://drive.google.com/file/d/1U1L76D4YijOHXnrlYpLbact0iB1kgMdL/view?usp=sharing
+13) gtranslate
+https://drive.google.com/file/d/1WqGJtcni0Pf2gNSDpj0Ja7hvYPT3mUxo/view?usp=sharing
+14) jquery-manager
+https://drive.google.com/file/d/1-TXZc7b90OTi0NVsT8_9rCLd1As6hJ0y/view?usp=sharing
+15) rename-db-table-prefix
+https://drive.google.com/file/d/1Mbxy8RYHOmEnCN1Tj6f3u0c-RZSjdDD9/view?usp=sharing
+16) under-construction-page
+https://drive.google.com/file/d/1Ju7ol54glEd9cVdmCjppYNVlXYfBwzI-/view?usp=sharing
+17) updraftplus
+https://drive.google.com/file/d/1uzVH6R8Sd1N3I3r0YRAlWb7sKd6nGEGm/view?usp=sharing
+18) wc-sslcommerz-easycheckout
+https://drive.google.com/file/d/1teeSiwapJ-H_Fw_UlYl8atmeJNe8FrgV/view?usp=sharing
+19) webp-express
+https://drive.google.com/file/d/1DhaP7mHsZQVwMz93dlknBJM901gRzlIk/view?usp=sharing
+20) woo-checkout-field-editor-pro
+https://drive.google.com/file/d/1I8PU-iuHdkMSjLWpLvfqtwi_JCx_0t-a/view?usp=sharing
+21) woo-payment-bkash
+https://drive.google.com/file/d/1d9LnANPMVr-haamLUpcl8Ek94ELd-Lyw/view?usp=sharing
+22) woo-rocket
+https://drive.google.com/file/d/157lFowQ-RdAZlPluJFXwLLfb8UQ0v44k/view?usp=sharing
+23) woocommerce
+https://drive.google.com/file/d/148gbn7Z8HCaqeKK9GQfbS9ZzDe8C4bOB/view?usp=sharing
+24) wp-downgrade
+https://drive.google.com/file/d/195RgCO7CA25T19dkijTzQtxnHB8kOE3w/view?usp=sharing
+25) wp-file-manager
+https://drive.google.com/file/d/1XSpM0S9xEryMuNLJAQ-9qXQVnofcqXL6/view?usp=sharing
+26) wp-optimize
+https://drive.google.com/file/d/1RAnFneU_CtfPkg0b-uctoxQnjRWaTaCa/view?usp=sharing
+27) wp-reset
+https://drive.google.com/file/d/1EJzeJ6lufS1swwX8EuCQTsEKVK5ZfP_H/view?usp=sharing
+28) wp-rocket
+https://drive.google.com/file/d/1rLhbtkky9r-a4sk8-Uq_qfrCBec4Jkg6/view?usp=sharing
+29) wp-server-stats
+https://drive.google.com/file/d/11H7mYwXO1KpY1NVy9Zdk4nf9u2lWgB-B/view?usp=sharing
+30) wp-smushit
+https://drive.google.com/file/d/1Nn9hUjC0070u6qLyHTK_lE-PURCbY5Ji/view?usp=sharing
