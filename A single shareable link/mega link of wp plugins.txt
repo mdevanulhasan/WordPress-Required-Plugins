@@ -16,9 +16,9 @@ https://mega.nz/file/MgFxxYCA#1GGoMgWO9l0LU-BQEgT140bhYGZqnlnDVfA-Iob8NpM
 https://mega.nz/file/U4FFDYCK#D9uMqqIpyOmMBN4cm-Ao0m5ZtJ2tCLsEsCVMhBXmad4
 9) easy-facebook-likebox
 https://mega.nz/file/VxcTwQJZ#AMbP2i3X7Zb1on4JCCeGOMd8KXGVHtXKimA32eD7nOg
-10) elementor-pro
+10) elementor-pro-v-3.4.2
 https://mega.nz/file/JtVxiSpR#5rKATL1xszKgU1B8tLIPEgT0_K7FiOoNUMXJPf7wA7s
-11) elementor
+11) elementor-v-3.4.2
 https://mega.nz/file/NxFzlayL#UJa7v_XQdeUXMqov1PEEGDOYe1i88JYoitnsjSfMZKo
 12) go-live-update-urls
 https://mega.nz/file/U5dXBKAD#1MlU6pMq3PicuBJA_vgvKFNYDvO1ES6bRfYm1cik5hs
@@ -52,7 +52,7 @@ https://mega.nz/file/A8UXyK7a#wactz1tJK3PrMURzRmH6OuIa9Gxo2ir6Yqtt8PzynxA
 https://mega.nz/file/YsFHBKZY#akgPJFvA5kKwOeGxvR6oF3GTFnqFo2QmQg2ZDowKy6k
 27) wp-reset
 https://mega.nz/file/Y5EjkIxY#lcZX9n-8skeqLSGJLH-WE6pyDaHjXdNx3NSzoFPVOoE
-28) wp-rocket
+28) wp-rocket-v-3.9.1.1
 https://mega.nz/file/EoVHFSDK#nDK5FTkXaI3-F92Civ_ci0wTHVmXB1J5PY38Yracz50
 29) wp-server-stats
 https://mega.nz/file/50EXEI4Y#t1AFiP1wB5Ew5sxqbUyEfZOzeMObHayAMuVAid_0mLs

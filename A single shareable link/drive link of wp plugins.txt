@@ -16,9 +16,9 @@ https://drive.google.com/file/d/13Gqyri1oo6GlRK7WCukpuuNmSP3HB1IY/view?usp=shari
 https://drive.google.com/file/d/1LdhWMraEAeaL1dWBdYy9HEPpAEy5E400/view?usp=sharing
 9) easy-facebook-likebox
 https://drive.google.com/file/d/1Cx7Cf-HHnneEGcuLeHXcnbiAWyCbr3Mr/view?usp=sharing
-10) elementor-pro
+10) elementor-pro-v-3.4.2
 https://drive.google.com/file/d/1H-5fSpkg3yDphk3iHzvTz7zXxlk6Bi9L/view?usp=sharing
-11) elementor
+11) elementor-v-3.4.2
 https://drive.google.com/file/d/1uLvT6PPuV-R-8EJSDuy8Sw8Ta3sQ7XeL/view?usp=sharing
 12) go-live-update-urls
 https://drive.google.com/file/d/1U1L76D4YijOHXnrlYpLbact0iB1kgMdL/view?usp=sharing
@@ -52,7 +52,7 @@ https://drive.google.com/file/d/1XSpM0S9xEryMuNLJAQ-9qXQVnofcqXL6/view?usp=shari
 https://drive.google.com/file/d/1RAnFneU_CtfPkg0b-uctoxQnjRWaTaCa/view?usp=sharing
 27) wp-reset
 https://drive.google.com/file/d/1EJzeJ6lufS1swwX8EuCQTsEKVK5ZfP_H/view?usp=sharing
-28) wp-rocket
+28) wp-rocket-v-3.9.1.1
 https://drive.google.com/file/d/1rLhbtkky9r-a4sk8-Uq_qfrCBec4Jkg6/view?usp=sharing
 29) wp-server-stats
 https://drive.google.com/file/d/11H7mYwXO1KpY1NVy9Zdk4nf9u2lWgB-B/view?usp=sharing
