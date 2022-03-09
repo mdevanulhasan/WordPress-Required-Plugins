@@ -42,7 +42,7 @@ https://mega.nz/file/Y5cHVKrC#w4GD6dKbqEIgv3uOaH7U5IW7h3fS5-kHx46SXeckXW0
 https://mega.nz/file/5tEzWIxC#DCzfgKt_L902WpEVbVkL0MC0ko2FiHjNECLDi8rcUHE
 22) woo-rocket
 https://mega.nz/file/ZoUx1QiZ#_8YOtI7hIuevy2zaU_wO0QAwLnOtRzDZ6hT0wBCefYM
-23) woocommerce
+23) woocommerce-v-5.9.0
 https://mega.nz/file/N8UFBQ5Y#b1ewD_cfoDd-DT8xUpizHTHdL-F7_bSiDtBGUA19xr0
 24) wp-downgrade
 https://mega.nz/file/opUzWCpC#hkpitrcuI2L5N4V87y-Jn6aJNFPUiRBzthEj5gsJADc
@@ -76,3 +76,13 @@ https://mega.nz/file/dpMEERQQ#uLZkk0wUAi46BQrsB9tzkDtGA4sihR_u7SC_oOXPiLM
 https://mega.nz/file/Jg8UzA7J#bkmFnLeeVh2VvX3bANhpya1F-LTeqoMcQQSA9LgMHQE
 39) Yoast Seo Plugins Package
 https://mega.nz/file/ktUEUZoI#nc5EsLUGGRJe9dig1pA7yQdDcWjaJdFZgz6zyVJO6SU
+40) chaty.2.8.3
+https://mega.nz/file/N9kVSQAC#2rS9aZi7j2TT8D0tUBWOPs_vY5l_iNL5rwFIMkmTCz8
+41) crisp
+https://mega.nz/file/8s9lgKZL#_GF7UiiUux604JZrchSd5qu2Zt0Ah6kiD2v5CkOi6_0
+42) iThemes Security
+https://mega.nz/file/Zp9l2CAD#NpbGuyOO0TtG8mcbgi4dbERBUbKvwRsjy79TluRCmJk
+43) sticky-header-effects-for-elementor
+https://mega.nz/file/559lhCrY#zqSYJMu3S8LrnJVZbh4g08ZHIPjEPK3hRNekBob6zjM
+44) woocommerce-v-6.2.1
+https://mega.nz/file/EpURXKpD#BYH8Wdffa9hqxU7dzctRJ35VfT8hrZnPwfAsUEx3oj4

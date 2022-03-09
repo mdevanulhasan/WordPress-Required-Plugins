@@ -42,7 +42,7 @@ https://drive.google.com/file/d/1I8PU-iuHdkMSjLWpLvfqtwi_JCx_0t-a/view?usp=shari
 https://drive.google.com/file/d/1d9LnANPMVr-haamLUpcl8Ek94ELd-Lyw/view?usp=sharing
 22) woo-rocket
 https://drive.google.com/file/d/157lFowQ-RdAZlPluJFXwLLfb8UQ0v44k/view?usp=sharing
-23) woocommerce
+23) woocommerce-v-5.9.0
 https://drive.google.com/file/d/148gbn7Z8HCaqeKK9GQfbS9ZzDe8C4bOB/view?usp=sharing
 24) wp-downgrade
 https://drive.google.com/file/d/195RgCO7CA25T19dkijTzQtxnHB8kOE3w/view?usp=sharing
@@ -76,3 +76,13 @@ https://drive.google.com/file/d/1YPoBFPfpFXq3YB_XuPPn__ZTgu7Uyj1p/view?usp=shari
 https://drive.google.com/file/d/1ZSzA8MfGmaYMZ3XRiXW4HfKj2D24cAan/view?usp=sharing
 39) Yoast Seo Plugins Package
 https://drive.google.com/file/d/1IPBkEWRx2-bVsj_Sy3h_Ny2j9Lk4NIRh/view?usp=sharing
+40) chaty.2.8.3
+https://drive.google.com/file/d/1oh3fzxoBHxLpYBbWHNmXqIKP3JH3WjGc/view?usp=sharing
+41) crisp
+https://drive.google.com/file/d/14w9f3IESp5AXtauuO_h-QiZQIBN8UsK3/view?usp=sharing
+42) iThemes Security
+https://drive.google.com/file/d/101JW4gVF0-aABCyYawUOQRjCP0e6Cbym/view?usp=sharing
+43) sticky-header-effects-for-elementor
+https://drive.google.com/file/d/1kzjvxPCEESiwieX2c4bhDYF7LVAfCQsn/view?usp=sharing
+44) woocommerce-v-6.2.1
+https://drive.google.com/file/d/1l3OQcmibxJExFTf7OJYT_ZzqZerWB5p_/view?usp=sharing
