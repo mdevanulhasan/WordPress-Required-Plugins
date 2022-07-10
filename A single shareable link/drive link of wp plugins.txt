@@ -54,22 +54,22 @@ https://drive.google.com/file/d/1RAnFneU_CtfPkg0b-uctoxQnjRWaTaCa/view?usp=shari
 https://drive.google.com/file/d/1EJzeJ6lufS1swwX8EuCQTsEKVK5ZfP_H/view?usp=sharing
 28) wp-rocket-v-3.9.1.1
 https://drive.google.com/file/d/1rLhbtkky9r-a4sk8-Uq_qfrCBec4Jkg6/view?usp=sharing
-29) wp-server-stats
-https://drive.google.com/file/d/11H7mYwXO1KpY1NVy9Zdk4nf9u2lWgB-B/view?usp=sharing
-30) wp-smushit
-https://drive.google.com/file/d/1Nn9hUjC0070u6qLyHTK_lE-PURCbY5Ji/view?usp=sharing
-31) Brizy & Brizy Pro
-https://drive.google.com/file/d/1q8UVxGuP9FvKG5ayYaVEiinCjZ0O7V_v/view?usp=sharing
-32) post-duplicator.2.28
-https://drive.google.com/file/d/1sxyetQiaxrLGsaInWYBEW2db1Xocm2Wy/view?usp=sharing
-33) stops-core-theme-and-plugin-updates.9.0.12
-https://drive.google.com/file/d/1xC3KHedAayiNANcB6SmHIn76Mka2BiKW/view?usp=sharing
-34) UiPress Pro (Admin 2020) – Modern Dashboard Theme 2.2.5
-https://drive.google.com/file/d/1bMiwcTug3IrCzBMNMeVfe0GtIaccGZCH/view?usp=sharing
-35) wp-anything-downloader.3.0.1
-https://drive.google.com/file/d/1ue5G0YKd0LKsH2c_4uQBNU4yeB4sUyeW/view?usp=sharing
-36) wp-rocket-v-3.9.3
+29) wp-rocket-v-3.9.3
 https://drive.google.com/file/d/13xnIBUsb6FOLEFPlbfPFTL7awp3BhAXe/view?usp=sharing
+30) wp-server-stats
+https://drive.google.com/file/d/11H7mYwXO1KpY1NVy9Zdk4nf9u2lWgB-B/view?usp=sharing
+31) wp-smushit
+https://drive.google.com/file/d/1Nn9hUjC0070u6qLyHTK_lE-PURCbY5Ji/view?usp=sharing
+32) Brizy & Brizy Pro
+https://drive.google.com/file/d/1q8UVxGuP9FvKG5ayYaVEiinCjZ0O7V_v/view?usp=sharing
+33) post-duplicator.2.28
+https://drive.google.com/file/d/1sxyetQiaxrLGsaInWYBEW2db1Xocm2Wy/view?usp=sharing
+34) stops-core-theme-and-plugin-updates.9.0.12
+https://drive.google.com/file/d/1xC3KHedAayiNANcB6SmHIn76Mka2BiKW/view?usp=sharing
+35) UiPress Pro (Admin 2020) – Modern Dashboard Theme 2.2.5
+https://drive.google.com/file/d/1bMiwcTug3IrCzBMNMeVfe0GtIaccGZCH/view?usp=sharing
+36) wp-anything-downloader.3.0.1
+https://drive.google.com/file/d/1ue5G0YKd0LKsH2c_4uQBNU4yeB4sUyeW/view?usp=sharing
 37) wpforms-addons
 https://drive.google.com/file/d/1YPoBFPfpFXq3YB_XuPPn__ZTgu7Uyj1p/view?usp=sharing
 38) wpforms-pro
@@ -82,27 +82,23 @@ https://drive.google.com/file/d/1oh3fzxoBHxLpYBbWHNmXqIKP3JH3WjGc/view?usp=shari
 https://drive.google.com/file/d/14w9f3IESp5AXtauuO_h-QiZQIBN8UsK3/view?usp=sharing
 42) iThemes Security
 https://drive.google.com/file/d/101JW4gVF0-aABCyYawUOQRjCP0e6Cbym/view?usp=sharing
-43) sticky-header-effects-for-elementor
-https://drive.google.com/file/d/1kzjvxPCEESiwieX2c4bhDYF7LVAfCQsn/view?usp=sharing
-44) woocommerce-v-6.2.1
+43) woocommerce-v-6.2.1
 https://drive.google.com/file/d/1l3OQcmibxJExFTf7OJYT_ZzqZerWB5p_/view?usp=sharing
-45) all-in-one-seo-pack.4.1.8
+44) all-in-one-seo-pack.4.1.8
 https://drive.google.com/file/d/1uokBYflJ4hhdyo-BVKKWw3ngiagPaRyY/view?usp=sharing
-46) amp.2.2.1
+45) amp.2.2.1
 https://drive.google.com/file/d/1-9YF_Vu9c2h7RZRwlK5omvXzKvIIylYF/view?usp=sharing
-47) cresta-whatsapp-chat.1.2.7
+46) cresta-whatsapp-chat.1.2.7
 https://drive.google.com/file/d/16ejkrZRyWxCFfn7BWTSjL9Dz9PP3rswq/view?usp=sharing
-48) facebook-messenger-customer-chat
+47) facebook-messenger-customer-chat
 https://drive.google.com/file/d/1-QzcqBJIXwH9hRJqFOi6ETshvKYSh7GJ/view?usp=sharing
-49) real-time-find-and-replace
+48) real-time-find-and-replace
 https://drive.google.com/file/d/1aLmdXycOJLiLom_lX2_Jyobp8bF1oQ5J/view?usp=sharing
-50) wpvivid-backuprestore.0.9.69
+49) wpvivid-backuprestore.0.9.69
 https://drive.google.com/file/d/1K3tOUkSCPa69yMgZ1vwnFNwYcM2qbGea/view?usp=sharing
-51) powerpack-elements-2.5.0
-https://drive.google.com/file/d/1pMjiNQt4YrdvxBeLq-Z432GzDafvbjMZ/view?usp=sharing
-52) tutor.2.0.1
+50) tutor.2.0.1
 https://drive.google.com/file/d/1lV_7HDDs-Qe9yV1KPt5Vp1oaEDECfjwb/view?usp=sharing
-53) tutor-pro-1.9.13
+51) tutor-pro-1.9.13
 https://drive.google.com/file/d/1fUbJ5hSjDkmMuDSe2SGBEDQpkY0bRHJJ/view?usp=sharing
-54) yellow-pencil-visual-theme-customizer
+52) yellow-pencil-visual-theme-customizer
 https://drive.google.com/file/d/14Im7ue5MpBLC5DmT0SvZmvd6jq3eseu7/view?usp=sharing

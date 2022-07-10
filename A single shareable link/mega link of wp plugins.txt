@@ -54,22 +54,22 @@ https://mega.nz/file/YsFHBKZY#akgPJFvA5kKwOeGxvR6oF3GTFnqFo2QmQg2ZDowKy6k
 https://mega.nz/file/Y5EjkIxY#lcZX9n-8skeqLSGJLH-WE6pyDaHjXdNx3NSzoFPVOoE
 28) wp-rocket-v-3.9.1.1
 https://mega.nz/file/EoVHFSDK#nDK5FTkXaI3-F92Civ_ci0wTHVmXB1J5PY38Yracz50
-29) wp-server-stats
-https://mega.nz/file/50EXEI4Y#t1AFiP1wB5Ew5sxqbUyEfZOzeMObHayAMuVAid_0mLs
-30) wp-smushit
-https://mega.nz/file/QsVzyQiQ#734zafPJv7h8YCNyEKQnx9qTWZUxj_YIr12vfi_6d8E
-31) Brizy & Brizy Pro
-https://mega.nz/file/AgMUQR7B#WoT1YEfMl0obsORoO6yjcOrXAgweFuy1NNUoPCUg9Zg
-32) post-duplicator.2.28
-https://mega.nz/file/9gUWxZSa#GdG2TbrwTHdyQY-aVfGpZBQzu6EQ2K3mgxKuEHtoMIE
-33) stops-core-theme-and-plugin-updates.9.0.12
-https://mega.nz/file/lpcQFZCa#TbzcwEsVXCfDAS9_XIfFnFXmZXyxR6AVcrkSSWQ6_SY
-34) UiPress Pro (Admin 2020) – Modern Dashboard Theme 2.2.5
-https://mega.nz/file/JtkgnKAK#dpsXhTtCh22XEnRQ_gpOM94m5yghAFHmB8N8xC77B4o
-35) wp-anything-downloader.3.0.1
-https://mega.nz/file/g0tQjACa#mcxeIsZl75czHKRE6pNsOmtFl2ZPCekdxOzD_w8O7S0
-36) wp-rocket-v-3.9.3
+29) wp-rocket-v-3.9.3
 https://mega.nz/file/pgdmABJI#1m-bLk5s_t6Zo4rb2UabQAxtjS7EmNHp2Yyi1qYsLCk
+30) wp-server-stats
+https://mega.nz/file/50EXEI4Y#t1AFiP1wB5Ew5sxqbUyEfZOzeMObHayAMuVAid_0mLs
+31) wp-smushit
+https://mega.nz/file/QsVzyQiQ#734zafPJv7h8YCNyEKQnx9qTWZUxj_YIr12vfi_6d8E
+32) Brizy & Brizy Pro
+https://mega.nz/file/AgMUQR7B#WoT1YEfMl0obsORoO6yjcOrXAgweFuy1NNUoPCUg9Zg
+33) post-duplicator.2.28
+https://mega.nz/file/9gUWxZSa#GdG2TbrwTHdyQY-aVfGpZBQzu6EQ2K3mgxKuEHtoMIE
+34) stops-core-theme-and-plugin-updates.9.0.12
+https://mega.nz/file/lpcQFZCa#TbzcwEsVXCfDAS9_XIfFnFXmZXyxR6AVcrkSSWQ6_SY
+35) UiPress Pro (Admin 2020) – Modern Dashboard Theme 2.2.5
+https://mega.nz/file/JtkgnKAK#dpsXhTtCh22XEnRQ_gpOM94m5yghAFHmB8N8xC77B4o
+36) wp-anything-downloader.3.0.1
+https://mega.nz/file/g0tQjACa#mcxeIsZl75czHKRE6pNsOmtFl2ZPCekdxOzD_w8O7S0
 37) wpforms-addons
 https://mega.nz/file/dpMEERQQ#uLZkk0wUAi46BQrsB9tzkDtGA4sihR_u7SC_oOXPiLM
 38) wpforms-pro
@@ -82,27 +82,23 @@ https://mega.nz/file/N9kVSQAC#2rS9aZi7j2TT8D0tUBWOPs_vY5l_iNL5rwFIMkmTCz8
 https://mega.nz/file/8s9lgKZL#_GF7UiiUux604JZrchSd5qu2Zt0Ah6kiD2v5CkOi6_0
 42) iThemes Security
 https://mega.nz/file/Zp9l2CAD#NpbGuyOO0TtG8mcbgi4dbERBUbKvwRsjy79TluRCmJk
-43) sticky-header-effects-for-elementor
-https://mega.nz/file/559lhCrY#zqSYJMu3S8LrnJVZbh4g08ZHIPjEPK3hRNekBob6zjM
-44) woocommerce-v-6.2.1
+43) woocommerce-v-6.2.1
 https://mega.nz/file/EpURXKpD#BYH8Wdffa9hqxU7dzctRJ35VfT8hrZnPwfAsUEx3oj4
-45) all-in-one-seo-pack.4.1.8
+44) all-in-one-seo-pack.4.1.8
 https://mega.nz/file/148BFQSL#7L-qmmiHKlEFYP_oQjExL9-JZ3_3Ikzklzk57RvihxE
-46) amp.2.2.1
+45) amp.2.2.1
 https://mega.nz/file/BxUSxDob#03hEftXe-LW3bZkPehz0gafmMCZeKXsoL6SFgWouTFk
-47) cresta-whatsapp-chat.1.2.7
+46) cresta-whatsapp-chat.1.2.7
 https://mega.nz/file/t8MnCZSb#DV0twMunsP8GU0jscN4dlG7zwW9XmsABFCx-ooB2tr8
-48) facebook-messenger-customer-chat
+47) facebook-messenger-customer-chat
 https://mega.nz/file/xgUmRKQb#YfFqz3ePc_CEBKTLPEAF71yrE6JBWgBmYHpMA22cvG4
-49) real-time-find-and-replace
+48) real-time-find-and-replace
 https://mega.nz/file/0tclxSjJ#kkDWi_k8fjsO7MWaQBB2Qrf-N95IbD4F1uhFVVK3u9c
-50) wpvivid-backuprestore.0.9.69
+49) wpvivid-backuprestore.0.9.69
 https://mega.nz/file/wo0F1ITZ#FQ6S8Bn-IAvNe1jHk8f2HQZpOpJf5Gb6lSJiyoqrDTc
-51) powerpack-elements-2.5.0
-https://mega.nz/file/N5M0kSbR#nUjhhO3YnvExIHkPZ4TomR1ZpdlGh-O-uH5Y6EIS7DY
-52) tutor.2.0.1
+50) tutor.2.0.1
 https://mega.nz/file/MstyFJwZ#zLnDhaVSkkTayA2eIFA6vszPwLG0or09Id8PBXvfeCc
-53) tutor-pro-1.9.13
+51) tutor-pro-1.9.13
 https://mega.nz/file/tlsQWAzR#Kg88THctQMUmB-eJOp9DDm1jv-Em8QHZ8YPF7f5odpQ
-54) yellow-pencil-visual-theme-customizer
+52) yellow-pencil-visual-theme-customizer
 https://mega.nz/file/0xF2ALwA#8p1bAIwufvG8Y54N1-wu0L3lSn5Ivao-JcgqTGIJtLA
