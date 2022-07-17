@@ -1,6 +1,6 @@
-# Welcome to My WP-Required-Plugins Page.
+# Welcome to My WordPress-Required-Plugins Page.
 
-## This "WP-Required-Plugins" is only use for educational purpose...!
+## This "WordPress-Required-Plugins" is only use for educational purpose...!
 
 ### Where we can use ?
 
@@ -17,7 +17,7 @@
 ```markdown
 
 - If you have git in you OS (windows / mac / linux ) just open you terminal(mac/linux) or cmd(windows) and type
- `git clone https://github.com/mdevanulhasan/WP-Required-Plugins.git`
+ `git clone https://github.com/mdevanulhasan/WordPress-Required-Plugins.git`
 - Or, you can directily download it and start coding :)
 
 ```
@@ -32,4 +32,4 @@ Having trouble with plugins? Check out our [documentation](https://mdevanulhasan
 - So, yes; you are welcome , you can contrubute this with me and imporve this demos.
 ```
 
-``` Thanks for visiting my WP-Required-Plugins page. ```
+``` Thanks for visiting my WordPress-Required-Plugins page. ```
